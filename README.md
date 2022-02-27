@@ -1,6 +1,6 @@
 Hello, welcome to my Github page :D here are some neato states
 
-As a start, I've made **1286** commits, created **31** repos, contributed to **15** repos, and have made 87 pull requests.
+As a start, I've made **1286** commits, created **31** repos, contributed to **14** repos, and have made 87 pull requests.
 
 Enjoy these colorful badges of the language statistics (I guess my notebooks overloaded everything)
 
